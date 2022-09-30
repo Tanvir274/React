@@ -1,0 +1,23 @@
+.heading {
+  background-color: aqua;
+  color: blue;
+  padding: 10px;
+  text-align: center;
+}
+* {
+  background-color: bisque;
+}
+
+.card {
+  background-color: rgb(17, 7, 7);
+  box-shadow: 4px;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 10px;
+  width: 400px;
+  display: inline-block;
+}
+
+.myBtn {
+  margin: 25px;
+}
